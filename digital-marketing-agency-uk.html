@@ -123,6 +123,16 @@ footer li a:hover{color:var(--terra-soft);}
 @keyframes waPulse{0%{transform:scale(1);opacity:0.6;}100%{transform:scale(1.4);opacity:0;}}
 @media(max-width:600px){.wa-float{right:14px;bottom:14px;width:52px;height:52px;}}
 </style>
+<!-- Google Analytics (GA4) — consent-aware, loads only after cookie consent -->
+<script>
+function loadGA(){if(document.getElementById('ga-script'))return;var s=document.createElement('script');s.id='ga-script';s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-HD2SKF6S16';document.head.appendChild(s);window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}window.gtag=gtag;gtag('js',new Date());gtag('config','G-HD2SKF6S16');}
+if(document.cookie.indexOf('cookie_consent=accepted')!==-1){loadGA();}
+</script>
+<!-- Microsoft Clarity — consent-aware, loads only after cookie consent -->
+<script>
+function loadClarity(){if(window.clarity&&window.clarity.q)return;(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","ww3dc9wdif");}
+if(document.cookie.indexOf('cookie_consent=accepted')!==-1){loadClarity();}
+</script>
 </head>
 <body>
 <nav class="top"><div class="inner">
