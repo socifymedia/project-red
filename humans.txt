@@ -1,0 +1,18 @@
+/* TEAM */
+   Agency: SocifyMedia
+   Location: Chandigarh, India
+   Contact: socifymedia@outlook.com
+   WhatsApp: +91 76967 14953
+   Site: https://socifymedia.in
+
+/* THANKS */
+   Our clients, who let us prove that senior-led, AI-augmented
+   marketing beats junior-led, template-driven marketing every time.
+
+/* SITE */
+   Hosted on: Netlify
+   Domain registrar: GoDaddy
+   Last update: 2026-05-16
+   Standards: HTML5, JSON-LD (schema.org), hreflang, OpenGraph
+   Components: vanilla HTML/CSS/JS (no framework)
+   Analytics: Google Analytics 4 (consent-gated)

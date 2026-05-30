@@ -1,0 +1,19 @@
+# SocifyMedia — Netlify redirect rules
+# Docs: https://docs.netlify.com/routing/redirects/
+
+# --- Force apex domain (non-www) ---
+# Tell Netlify the canonical host is socifymedia.in.
+# (Also set this in: Netlify dashboard → Domain management → Primary domain.)
+https://www.socifymedia.in/*   https://socifymedia.in/:splat   301!
+
+# --- URL normalisation: legacy old patterns → current canonical ---
+# Just in case a different slug ever existed historically, alias variants:
+/digital-marketing-chandigarh         /digital-marketing-services-chandigarh/   301!
+/digital-marketing-agency-chandigarh  /digital-marketing-services-chandigarh/   301!
+/digital-marketing-gurgaon            /digital-marketing-agency-gurugram/       301!
+/digital-marketing-agency-gurgaon     /digital-marketing-agency-gurugram/       301!
+/digital-marketing-bengaluru          /digital-marketing-agency-bangalore/      301!
+/digital-marketing-agency-bengaluru   /digital-marketing-agency-bangalore/      301!
+
+# --- 404 fallback (must be the LAST rule) ---
+/*   /404.html   404
