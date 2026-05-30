@@ -25,7 +25,7 @@
 
   <!-- About -->
   <url>
-    <loc>https://socifymedia.in/about/</loc>
+    <loc>https://socifymedia.in/about</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -33,7 +33,7 @@
 
   <!-- Blog index -->
   <url>
-    <loc>https://socifymedia.in/blog/</loc>
+    <loc>https://socifymedia.in/blog</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -41,7 +41,7 @@
 
   <!-- Blog posts -->
   <url>
-    <loc>https://socifymedia.in/blog/digital-marketing-agency-checklist-2026/</loc>
+    <loc>https://socifymedia.in/digital-marketing-agency-checklist-2026</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -49,49 +49,49 @@
 
   <!-- India city pages -->
   <url>
-    <loc>https://socifymedia.in/digital-marketing-services-chandigarh/</loc>
+    <loc>https://socifymedia.in/digital-marketing-services-chandigarh</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://socifymedia.in/digital-marketing-agency-delhi/</loc>
+    <loc>https://socifymedia.in/digital-marketing-agency-delhi</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://socifymedia.in/digital-marketing-agency-mumbai/</loc>
+    <loc>https://socifymedia.in/digital-marketing-agency-mumbai</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://socifymedia.in/digital-marketing-agency-bangalore/</loc>
+    <loc>https://socifymedia.in/digital-marketing-agency-bangalore</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://socifymedia.in/digital-marketing-agency-pune/</loc>
+    <loc>https://socifymedia.in/digital-marketing-agency-pune</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://socifymedia.in/digital-marketing-agency-hyderabad/</loc>
+    <loc>https://socifymedia.in/digital-marketing-agency-hyderabad</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://socifymedia.in/digital-marketing-agency-gurugram/</loc>
+    <loc>https://socifymedia.in/digital-marketing-agency-gurugram</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://socifymedia.in/digital-marketing-agency-noida/</loc>
+    <loc>https://socifymedia.in/digital-marketing-agency-noida</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -99,31 +99,31 @@
 
   <!-- Global / country pages -->
   <url>
-    <loc>https://socifymedia.in/digital-marketing-agency-usa/</loc>
+    <loc>https://socifymedia.in/digital-marketing-agency-usa</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://socifymedia.in/digital-marketing-agency-uk/</loc>
+    <loc>https://socifymedia.in/digital-marketing-agency-uk</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://socifymedia.in/digital-marketing-agency-canada/</loc>
+    <loc>https://socifymedia.in/digital-marketing-agency-canada</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://socifymedia.in/digital-marketing-agency-australia/</loc>
+    <loc>https://socifymedia.in/digital-marketing-agency-australia</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://socifymedia.in/digital-marketing-agency-dubai/</loc>
+    <loc>https://socifymedia.in/digital-marketing-agency-dubai</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -131,7 +131,7 @@
 
   <!-- Legal -->
   <url>
-    <loc>https://socifymedia.in/privacy-policy/</loc>
+    <loc>https://socifymedia.in/privacy-policy</loc>
     <lastmod>2026-05-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
