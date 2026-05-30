@@ -1,4 +1,5 @@
 # SocifyMedia — Cloudflare Pages redirect rules
+# Legacy slug aliases → current canonical URLs
 
 /digital-marketing-chandigarh         /digital-marketing-services-chandigarh/  301
 /digital-marketing-agency-chandigarh  /digital-marketing-services-chandigarh/  301
