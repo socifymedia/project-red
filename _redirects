@@ -1,9 +1,5 @@
 # SocifyMedia — Cloudflare Pages redirect rules
 
-# Force apex domain (non-www)
-https://www.socifymedia.in/*  https://socifymedia.in/:splat  301
-
-# URL normalisation: legacy patterns → current canonical
 /digital-marketing-chandigarh         /digital-marketing-services-chandigarh/  301
 /digital-marketing-agency-chandigarh  /digital-marketing-services-chandigarh/  301
 /digital-marketing-gurgaon            /digital-marketing-agency-gurugram/       301
